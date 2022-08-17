@@ -1,1 +1,2 @@
-Sample Terraform Provider for testing
+# Sample Terraform Provider
+Repository to create a custom terraform provider
