@@ -1,3 +1,5 @@
 .terraform*
 terraform.tfstate*
 clean-tf.sh
+helper.txt
+terraform-provider-sample
